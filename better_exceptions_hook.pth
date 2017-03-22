@@ -1,0 +1,1 @@
+import better_exceptions_hook; better_exceptions_hook.hook()
